@@ -1,0 +1,16 @@
+.vscode/
+
+bin/
+obj/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+appsettings.Development.json
+*.env
+.env
+
+.DS_Store
+Thumbs.db
